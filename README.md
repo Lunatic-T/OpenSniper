@@ -1,2 +1,3 @@
 # OpenSniper
-Open source sols rng sniper with all features you'd want!
+(messy rn, going to sleep so ill work on the readme tomorrow and ill just release the full code for now and a built exe too)
+
