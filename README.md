@@ -3,7 +3,7 @@
 
 * the prebuilt exe is downloadable [here](https://github.com/Lunatic-T/OpenSniper/releases/tag/v1.0)
 
-# Features
+## Features
 
 * Tuff ass UI
 
@@ -25,23 +25,21 @@
 
 * If you snipe a biome and the sniper detects it's not joining sol's rng but another game, it kicks out the player and blacklists the link and the user that sent it!
 
-# Preview 
-
-<img width="819" height="460" alt="opensniper ui" src="https://github.com/user-attachments/assets/2dd79ab9-f9a1-4805-bbaa-210500a39739" />
-
-<img width="1164" height="649" alt="image" src="https://github.com/user-attachments/assets/01c75503-28e4-4a6a-a0a5-8195116a2746" />
-
-
-
-# Building the code yourself (ignore if you just want the exe)
+## Building the code yourself (ignore if you just want the exe)
 * every missing package should automatically be downloaded
 
 * you need [git](https://git-scm.com/install/) to be able to automatically download every package.
 
-# do you need help
+## do you need help
 
 * If you're running into issues, i can help you fix everything in the discord server (or just dm .lunary.)
 
 * Discord server: discord.gg/7zuFCT8kYJ
 
 * Opensniper is still in testing. give me feedback!
+
+# Preview 
+
+<img width="819" height="460" alt="opensniper ui" src="https://github.com/user-attachments/assets/2dd79ab9-f9a1-4805-bbaa-210500a39739" />
+
+<img width="1164" height="649" alt="image" src="https://github.com/user-attachments/assets/01c75503-28e4-4a6a-a0a5-8195116a2746" />
