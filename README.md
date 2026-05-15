@@ -21,7 +21,7 @@
 
 * Toggle showing ignore logs
 
-* When sniping a biome, you will see all the info about everything 
+* When sniping a biome, it'll make a sound and you will see all the info about everything, see the preview down there to see how it looks like
 
 * If you snipe a biome and the sniper detects it's not joining sol's rng but another game, it kicks out the player and blacklists the link and the user that sent it!
 
