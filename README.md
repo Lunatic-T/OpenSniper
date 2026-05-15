@@ -5,7 +5,7 @@
 
 # Preview 
 
-<img width="1024" height="476" alt="2026-05-15 18-07-54-00 00 00 472-00 00 56 115 (online-video-cutter com)(4)" src="https://github.com/user-attachments/assets/2dd79ab9-f9a1-4805-bbaa-210500a39739" />
+<img width="819" height="460" alt="opensniper ui" src="https://github.com/user-attachments/assets/2dd79ab9-f9a1-4805-bbaa-210500a39739" />
 
 
 # Building the code yourself (ignore if you just want the exe)
