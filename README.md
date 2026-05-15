@@ -3,6 +3,8 @@
 
 * the prebuilt exe is downloadable [here](https://github.com/Lunatic-T/OpenSniper/releases/tag/v1.0)
 
+* btw the exe is built using Pyinstaller so virustotal freaks out about it, i don't really have any way to stop it from doing that so uh
+
 ## Features
 
 * Tuff ass UI
