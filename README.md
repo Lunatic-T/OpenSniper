@@ -3,9 +3,34 @@
 
 * the prebuilt exe is downloadable [here](https://github.com/Lunatic-T/OpenSniper/releases/tag/v1.0)
 
+# Features
+
+* Tuff ass UI
+
+* Snipe Glitch, Dreamspace, Cyberspace and Singularity
+
+* Custom keywords supported
+
+* Toggle console (kinda buggy rn)
+
+* Toggle having the window on top
+
+* U can customize the channels u wanna snipe (by default it's the others channel, biomes channel, boss raids channel and the merchants channel)
+
+* Toggle ignore newer accounts that are not older than [number] in days (you can configure that number)
+
+* Toggle showing ignore logs
+
+* When sniping a biome, you will see all the info about everything 
+
+* If you snipe a biome and the sniper detects it's not joining sol's rng but another game, it kicks out the player and blacklists the link and the user that sent it!
+
 # Preview 
 
 <img width="819" height="460" alt="opensniper ui" src="https://github.com/user-attachments/assets/2dd79ab9-f9a1-4805-bbaa-210500a39739" />
+
+<img width="1164" height="649" alt="image" src="https://github.com/user-attachments/assets/01c75503-28e4-4a6a-a0a5-8195116a2746" />
+
 
 
 # Building the code yourself (ignore if you just want the exe)
@@ -15,8 +40,8 @@
 
 # do you need help
 
-* if you're running into issues, i can help you fix everything in the discord server (or just dm .lunary.)
+* If you're running into issues, i can help you fix everything in the discord server (or just dm .lunary.)
 
-* discord server: discord.gg/7zuFCT8kYJ
+* Discord server: discord.gg/7zuFCT8kYJ
 
-* opensniper is still in testing. give me feedback!
+* Opensniper is still in testing. give me feedback!
